@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "355036937686",
+    "project_id": "runningwild-bbdf4",
+    "storage_bucket": "runningwild-bbdf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355036937686:android:bdd2a6ef96314f46d8f877",
+        "android_client_info": {
+          "package_name": "com.example.runningwild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355036937686-lmpobd1d7ieij70c39a92m1lq8jff2ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgN-opaNPdTOt9iKOWJerlORYtbnwH8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355036937686-lmpobd1d7ieij70c39a92m1lq8jff2ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355036937686:android:cfc53434d4515a57d8f877",
+        "android_client_info": {
+          "package_name": "example.runningwild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355036937686-lmpobd1d7ieij70c39a92m1lq8jff2ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgN-opaNPdTOt9iKOWJerlORYtbnwH8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355036937686-lmpobd1d7ieij70c39a92m1lq8jff2ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
